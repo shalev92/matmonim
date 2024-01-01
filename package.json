@@ -1,0 +1,18 @@
+{
+  "name": "matmonim",
+  "version": "0.1.0",
+  "description": "מטמונים היא מנוע החיפוש החופשי לליקוטי הלכות (כרגע) וכל ספרי ברסלב (בעתיד). הרעיון הוא לקבל חיפוש מהיר, נוח, עם אפשרות לשמירת קובץ ליקוטים שיהיה אפשר להדפיס אחר כך וללכת איתו לשדה. ניתן לייצר במטמונים חיפושים מורכבים, לקבל תוצאות מנוקדות (או לא) ועוד.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "breslev"
+  ],
+  "author": "Shal3v",
+  "license": "ISC",
+  "dependencies": {
+    "minisearch": "^6.3.0"
+  }
+}
